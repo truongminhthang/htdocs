@@ -1,0 +1,850 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-25 11:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: comments.php:30
+msgid "&larr;"
+msgstr ""
+
+#: comments.php:31
+msgid "&rarr;"
+msgstr ""
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:3
+msgid "Back to top"
+msgstr ""
+
+#: functions.php:69
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:70
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:195
+msgid "Univ Child Help"
+msgstr ""
+
+#: functions.php:196
+msgid "Univ Documentation"
+msgstr ""
+
+#: functions.php:308
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:314
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:320
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: search-old.php:35 partials/content-empty.php:10
+msgid "No posts found"
+msgstr ""
+
+#: search-old.php:37 search.php:26
+msgid ""
+"There are no posts which match your query, please try a different search "
+"term."
+msgstr ""
+
+#: search.php:25
+msgid "No Posts Found"
+msgstr ""
+
+#. Name of the template
+msgid "Univ Blog Both Sidebar"
+msgstr ""
+
+#: template-blog-both-sidebar.php:58 template-blog-left-sidebar.php:60
+#: template-blog-right-sidebar.php:55 partials/content-blog.php:43
+#: partials/content-list.php:34
+msgid "Read more."
+msgstr ""
+
+#. Name of the template
+msgid "Univ Blog Left Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Univ Blog Right Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Blog"
+msgstr ""
+
+#: includes/class-activation.php:13
+msgid "Univ Layer Extension"
+msgstr ""
+
+#: includes/class-activation.php:21
+msgid "Univ metaboxes"
+msgstr ""
+
+#: includes/class-activation.php:29
+msgid "Contact form 7"
+msgstr ""
+
+#: includes/class-activation.php:34
+msgid "Cmb2"
+msgstr ""
+
+#: includes/class-activation.php:39
+msgid "Mailchimp For WP"
+msgstr ""
+
+#: includes/custom-footer.php:18
+msgid "Footer Top Styling"
+msgstr ""
+
+#: includes/custom-footer.php:29 includes/custom-footer.php:680
+#: includes/custom-footer.php:820 includes/custom-footer.php:1199
+#: includes/custom-footer.php:1245
+msgid "Hastech"
+msgstr ""
+
+#: includes/custom-footer.php:34
+msgid "Show Footer Top"
+msgstr ""
+
+#: includes/custom-footer.php:38 includes/custom-footer.php:52
+msgid "Yes"
+msgstr ""
+
+#: includes/custom-footer.php:39 includes/custom-footer.php:53
+#: partials/content-classes.php:48
+msgid "no"
+msgstr ""
+
+#: includes/custom-footer.php:48
+msgid "Show logo"
+msgstr ""
+
+#: includes/custom-footer.php:57 includes/custom-footer.php:957
+msgid "Upload your logo"
+msgstr ""
+
+#: includes/custom-footer.php:67 includes/custom-footer.php:962
+msgid "Logo Size"
+msgstr ""
+
+#: includes/custom-footer.php:70 includes/custom-footer.php:965
+#: includes/custom-footer.php:1098
+msgid "Auto"
+msgstr ""
+
+#: includes/custom-footer.php:71 includes/custom-footer.php:966
+#: includes/custom-footer.php:1099
+msgid "Small"
+msgstr ""
+
+#: includes/custom-footer.php:72 includes/custom-footer.php:967
+#: includes/custom-footer.php:1100
+msgid "Medium"
+msgstr ""
+
+#: includes/custom-footer.php:73 includes/custom-footer.php:968
+#: includes/custom-footer.php:1101
+msgid "Large"
+msgstr ""
+
+#: includes/custom-footer.php:74 includes/custom-footer.php:969
+#: includes/custom-footer.php:1102
+msgid "Massive"
+msgstr ""
+
+#: includes/custom-footer.php:75 includes/custom-footer.php:970
+#: includes/custom-footer.php:1103
+msgid "Custom"
+msgstr ""
+
+#: includes/custom-footer.php:84 includes/custom-footer.php:975
+msgid "Logo Custom Size"
+msgstr ""
+
+#: includes/custom-footer.php:96 includes/custom-footer.php:598
+msgid "Padding Top (px)"
+msgstr ""
+
+#: includes/custom-footer.php:109 includes/custom-footer.php:610
+msgid "Padding Bottom (px)"
+msgstr ""
+
+#: includes/custom-footer.php:127 includes/custom-footer.php:219
+#: includes/custom-footer.php:311
+msgid "Select Information Type"
+msgstr ""
+
+#: includes/custom-footer.php:131 includes/custom-footer.php:223
+#: includes/custom-footer.php:315 includes/custom-footer.php:448
+#: includes/custom-footer.php:535 includes/custom-footer.php:715
+#: includes/custom-footer.php:870
+msgid "None"
+msgstr ""
+
+#: includes/custom-footer.php:132 includes/custom-footer.php:224
+#: includes/custom-footer.php:316
+msgid "Plain Text"
+msgstr ""
+
+#: includes/custom-footer.php:133 includes/custom-footer.php:225
+#: includes/custom-footer.php:317
+msgid "Email"
+msgstr ""
+
+#: includes/custom-footer.php:134 includes/custom-footer.php:226
+#: includes/custom-footer.php:318
+msgid "Phone"
+msgstr ""
+
+#: includes/custom-footer.php:140 includes/custom-footer.php:162
+#: includes/custom-footer.php:184 includes/custom-footer.php:232
+#: includes/custom-footer.php:254 includes/custom-footer.php:276
+#: includes/custom-footer.php:324 includes/custom-footer.php:347
+#: includes/custom-footer.php:370
+msgid "Icon Name"
+msgstr ""
+
+#: includes/custom-footer.php:147 includes/custom-footer.php:169
+#: includes/custom-footer.php:191 includes/custom-footer.php:239
+#: includes/custom-footer.php:261 includes/custom-footer.php:283
+#: includes/custom-footer.php:331 includes/custom-footer.php:354
+#: includes/custom-footer.php:377
+msgid ""
+"You want more icons <a  href=\"http://fontawesome.io/icons\" "
+"target=\"_blank\">Click here</a>."
+msgstr ""
+
+#: includes/custom-footer.php:151 includes/custom-footer.php:243
+#: includes/custom-footer.php:335
+msgid "Insert Your Text"
+msgstr ""
+
+#: includes/custom-footer.php:173 includes/custom-footer.php:265
+#: includes/custom-footer.php:358
+msgid "Insert Your Email"
+msgstr ""
+
+#: includes/custom-footer.php:195 includes/custom-footer.php:287
+#: includes/custom-footer.php:381
+msgid "Insert Your Country Code"
+msgstr ""
+
+#: includes/custom-footer.php:205 includes/custom-footer.php:297
+#: includes/custom-footer.php:391
+msgid "Insert Your Phone Number"
+msgstr ""
+
+#: includes/custom-footer.php:407
+msgid "Information Customize Option"
+msgstr ""
+
+#: includes/custom-footer.php:408
+msgid "Customize options for your footer top information settings."
+msgstr ""
+
+#: includes/custom-footer.php:413
+msgid "Select Information Design"
+msgstr ""
+
+#: includes/custom-footer.php:417
+msgid "Default Style"
+msgstr ""
+
+#: includes/custom-footer.php:418
+msgid "Custom Style"
+msgstr ""
+
+#: includes/custom-footer.php:423
+msgid "Font size (px)"
+msgstr ""
+
+#: includes/custom-footer.php:435
+msgid "Text Color"
+msgstr ""
+
+#: includes/custom-footer.php:444 includes/custom-footer.php:1162
+msgid "Text Transform"
+msgstr ""
+
+#: includes/custom-footer.php:449 includes/custom-footer.php:1168
+msgid "Capitalize"
+msgstr ""
+
+#: includes/custom-footer.php:450 includes/custom-footer.php:1167
+msgid "Uppercase"
+msgstr ""
+
+#: includes/custom-footer.php:451 includes/custom-footer.php:1169
+msgid "Lowercase"
+msgstr ""
+
+#: includes/custom-footer.php:452
+msgid "Full-width"
+msgstr ""
+
+#: includes/custom-footer.php:453
+msgid "Inherit"
+msgstr ""
+
+#: includes/custom-footer.php:454
+msgid "Initial"
+msgstr ""
+
+#: includes/custom-footer.php:455
+msgid "Unset"
+msgstr ""
+
+#: includes/custom-footer.php:464
+msgid "Icon Position"
+msgstr ""
+
+#: includes/custom-footer.php:468
+msgid "Icon on Left"
+msgstr ""
+
+#: includes/custom-footer.php:469
+msgid "Icon on Top"
+msgstr ""
+
+#: includes/custom-footer.php:478
+msgid "Icon Size (px)"
+msgstr ""
+
+#: includes/custom-footer.php:490 includes/custom-footer.php:635
+msgid "Margin Bottom (px)"
+msgstr ""
+
+#: includes/custom-footer.php:511
+msgid "Footer Top Setting"
+msgstr ""
+
+#: includes/custom-footer.php:512
+msgid "Customize options for your footer top settings."
+msgstr ""
+
+#: includes/custom-footer.php:520
+msgid "Content Alignment"
+msgstr ""
+
+#: includes/custom-footer.php:524 includes/custom-footer.php:856
+msgid "Left"
+msgstr ""
+
+#: includes/custom-footer.php:525 includes/custom-footer.php:858
+msgid "Center"
+msgstr ""
+
+#: includes/custom-footer.php:526 includes/custom-footer.php:857
+msgid "Right"
+msgstr ""
+
+#: includes/custom-footer.php:531 includes/custom-footer.php:711
+#: includes/custom-footer.php:866
+msgid "Select Background Type"
+msgstr ""
+
+#: includes/custom-footer.php:536 includes/custom-footer.php:542
+#: includes/custom-footer.php:716 includes/custom-footer.php:722
+#: includes/custom-footer.php:871 includes/custom-footer.php:877
+msgid "Background Color"
+msgstr ""
+
+#: includes/custom-footer.php:537 includes/custom-footer.php:717
+#: includes/custom-footer.php:872
+msgid "Background Image"
+msgstr ""
+
+#: includes/custom-footer.php:551 includes/custom-footer.php:731
+#: includes/custom-footer.php:885
+msgid "Upload Background Image"
+msgstr ""
+
+#: includes/custom-footer.php:561 includes/custom-footer.php:741
+#: includes/custom-footer.php:895
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/custom-footer.php:570 includes/custom-footer.php:750
+#: includes/custom-footer.php:904
+msgid "Overlay Opacity"
+msgstr ""
+
+#: includes/custom-footer.php:588
+msgid "Padding / Margin"
+msgstr ""
+
+#: includes/custom-footer.php:592
+msgid "Default Option"
+msgstr ""
+
+#: includes/custom-footer.php:593
+msgid "Custom Option"
+msgstr ""
+
+#: includes/custom-footer.php:623
+msgid "Margin Top (px)"
+msgstr ""
+
+#: includes/custom-footer.php:670
+msgid "Footer Styling"
+msgstr ""
+
+#: includes/custom-footer.php:686
+msgid "Footer Setting"
+msgstr ""
+
+#: includes/custom-footer.php:687
+msgid "Customize options for your footer settings."
+msgstr ""
+
+#: includes/custom-footer.php:692
+msgid "Widget Title Color"
+msgstr ""
+
+#: includes/custom-footer.php:697
+msgid "Widget Content Color"
+msgstr ""
+
+#: includes/custom-footer.php:702
+msgid "Widget Title font size"
+msgstr ""
+
+#: includes/custom-footer.php:764 includes/custom-footer.php:916
+msgid "Padding Top"
+msgstr ""
+
+#: includes/custom-footer.php:771 includes/custom-footer.php:924
+msgid "Padding Bottom"
+msgstr ""
+
+#: includes/custom-footer.php:778 includes/custom-footer.php:932
+msgid "Margin Top"
+msgstr ""
+
+#: includes/custom-footer.php:786 includes/custom-footer.php:940
+msgid "Margin Bottom"
+msgstr ""
+
+#: includes/custom-footer.php:809
+msgid "Copyright Styling"
+msgstr ""
+
+#: includes/custom-footer.php:824
+msgid "Copyright Setting"
+msgstr ""
+
+#: includes/custom-footer.php:825
+msgid "Customize options for your copyright section settings."
+msgstr ""
+
+#: includes/custom-footer.php:831
+msgid "Copyright Style"
+msgstr ""
+
+#: includes/custom-footer.php:835
+msgid "Style 1"
+msgstr ""
+
+#: includes/custom-footer.php:836
+msgid "Style 2"
+msgstr ""
+
+#: includes/custom-footer.php:837
+msgid "Style 3"
+msgstr ""
+
+#: includes/custom-footer.php:838
+msgid "Style 4"
+msgstr ""
+
+#: includes/custom-footer.php:839
+msgid "Style 5"
+msgstr ""
+
+#: includes/custom-footer.php:840
+msgid "Style 6"
+msgstr ""
+
+#: includes/custom-footer.php:841
+msgid "Style 7"
+msgstr ""
+
+#: includes/custom-footer.php:842
+msgid "Style 8"
+msgstr ""
+
+#: includes/custom-footer.php:843
+msgid "Style 9"
+msgstr ""
+
+#: includes/custom-footer.php:844
+msgid "Style 10"
+msgstr ""
+
+#: includes/custom-footer.php:845
+msgid "Style 11"
+msgstr ""
+
+#: includes/custom-footer.php:846
+msgid "Style 12"
+msgstr ""
+
+#: includes/custom-footer.php:847
+msgid "Style 13"
+msgstr ""
+
+#: includes/custom-footer.php:852
+msgid "Content Align"
+msgstr ""
+
+#: includes/custom-footer.php:952
+msgid "Show footer logo"
+msgstr ""
+
+#: includes/custom-footer.php:992
+msgid "Social Option"
+msgstr ""
+
+#: includes/custom-footer.php:993
+msgid "Design Option to change the styles and appearance of your social icons."
+msgstr ""
+
+#: includes/custom-footer.php:999
+msgid "Show Social media"
+msgstr ""
+
+#: includes/custom-footer.php:1004
+msgid "Icon Color"
+msgstr ""
+
+#: includes/custom-footer.php:1009
+msgid "Hover Color"
+msgstr ""
+
+#: includes/custom-footer.php:1014
+msgid "background"
+msgstr ""
+
+#: includes/custom-footer.php:1019
+msgid "Hover background"
+msgstr ""
+
+#: includes/custom-footer.php:1024
+msgid "Border Color"
+msgstr ""
+
+#: includes/custom-footer.php:1029
+msgid "Border Hover Color"
+msgstr ""
+
+#: includes/custom-footer.php:1034
+msgid "Font Size (px)"
+msgstr ""
+
+#: includes/custom-footer.php:1041
+msgid "Icon width (px)"
+msgstr ""
+
+#: includes/custom-footer.php:1048
+msgid "Border size (px)"
+msgstr ""
+
+#: includes/custom-footer.php:1055
+msgid "Rounded Corner Size (%)"
+msgstr ""
+
+#: includes/custom-footer.php:1062
+msgid "Link Spacing (px)"
+msgstr ""
+
+#: includes/custom-footer.php:1076
+msgid "Credit Cards Option"
+msgstr ""
+
+#: includes/custom-footer.php:1077
+msgid "Customize options for your payment section settings. "
+msgstr ""
+
+#: includes/custom-footer.php:1083
+msgid "Show Credit Cards"
+msgstr ""
+
+#: includes/custom-footer.php:1088
+msgid "Upload your Credit"
+msgstr ""
+
+#: includes/custom-footer.php:1095
+msgid "Credit Cards Size"
+msgstr ""
+
+#: includes/custom-footer.php:1108
+msgid "Custom Size"
+msgstr ""
+
+#: includes/custom-footer.php:1126
+msgid "Footer Menu style"
+msgstr ""
+
+#: includes/custom-footer.php:1127
+msgid "Customize options for your footer menu style. "
+msgstr ""
+
+#: includes/custom-footer.php:1133
+msgid "Show Footer Menu"
+msgstr ""
+
+#: includes/custom-footer.php:1138 includes/custom-footer.php:1216
+msgid "Font Size"
+msgstr ""
+
+#: includes/custom-footer.php:1146
+msgid "Text color"
+msgstr ""
+
+#: includes/custom-footer.php:1151 includes/custom-footer.php:1156
+msgid "Hover Text color"
+msgstr ""
+
+#: includes/custom-footer.php:1166
+msgid "Normal"
+msgstr ""
+
+#: includes/custom-footer.php:1173
+msgid "Link Spacing"
+msgstr ""
+
+#: includes/custom-footer.php:1205
+msgid "Copyright Text"
+msgstr ""
+
+#: includes/custom-footer.php:1212
+msgid "Copyright text Setting"
+msgstr ""
+
+#: includes/custom-footer.php:1213
+msgid "Change the font size and color of your copyright test."
+msgstr ""
+
+#: includes/custom-footer.php:1223
+msgid "Copyright color"
+msgstr ""
+
+#: includes/customizer.php:16
+msgid "Theme Color Option"
+msgstr ""
+
+#: includes/customizer.php:17
+msgid "These options allow you to change the key colors of your website."
+msgstr ""
+
+#: includes/customizer.php:21
+msgid "Sub Menu Hover Border Color"
+msgstr ""
+
+#: includes/customizer.php:22
+msgid "This affects change sub menu top border color."
+msgstr ""
+
+#: includes/customizer.php:28
+msgid "Icon color"
+msgstr ""
+
+#: includes/customizer.php:29 includes/customizer.php:36
+msgid "This affects all border color of your website."
+msgstr ""
+
+#: includes/customizer.php:35
+msgid "Icon bar color"
+msgstr ""
+
+#: includes/presets.php:10
+msgid "Univ - Home"
+msgstr ""
+
+#: includes/presets.php:17
+msgid "Univ - About"
+msgstr ""
+
+#: includes/presets.php:24
+msgid "Univ - Course"
+msgstr ""
+
+#: includes/presets.php:31
+msgid "Univ - News"
+msgstr ""
+
+#: includes/presets.php:38
+msgid "Univ - Events"
+msgstr ""
+
+#: includes/presets.php:45
+msgid "Univ - Contact"
+msgstr ""
+
+#: includes/theme-help.php:10
+msgid "Download Layers"
+msgstr ""
+
+#: includes/theme-help.php:13
+msgid "Thanks for Installing the univ Child Theme!"
+msgstr ""
+
+#: includes/theme-help.php:17
+msgid ""
+"The flowing links will guide you to customize you theme as you want. Just "
+"visit this links and explore."
+msgstr ""
+
+#: includes/theme-help.php:19
+msgid "Online Documentation"
+msgstr ""
+
+#: includes/theme-help.php:25
+msgid "Layerswp Installation Guide."
+msgstr ""
+
+#: includes/theme-help.php:29
+msgid ""
+"univ is a childe theme of layerswp parent theme. For using univ childe you "
+"have to install layerswp theme first. Visit the link below to see layerswp "
+"installation guide."
+msgstr ""
+
+#: includes/theme-help.php:31
+msgid "Layerswp Installation Guide"
+msgstr ""
+
+#: partials/content-classes.php:22
+msgid "Duration:"
+msgstr ""
+
+#: partials/content-classes.php:23
+msgid "Sit Available:"
+msgstr ""
+
+#: partials/content-classes.php:46
+msgid "Overview"
+msgstr ""
+
+#: partials/content-classes.php:47
+msgid "Week Courses Schedule"
+msgstr ""
+
+#: partials/content-classes.php:48
+msgid "Comments"
+msgstr ""
+
+#: partials/content-classes.php:48
+msgid "1"
+msgstr ""
+
+#: partials/content-classes.php:48
+msgid "%"
+msgstr ""
+
+#: partials/content-classes.php:240
+msgid "Start Date:"
+msgstr ""
+
+#: partials/content-classes.php:241
+msgid "Years Old:"
+msgstr ""
+
+#: partials/content-classes.php:242
+msgid "Class Size:"
+msgstr ""
+
+#: partials/content-classes.php:243
+msgid "Class Duration:"
+msgstr ""
+
+#: partials/content-classes.php:244
+msgid "Transportation:"
+msgstr ""
+
+#: partials/content-classes.php:245
+msgid "Morning Foods:"
+msgstr ""
+
+#: partials/content-classes.php:246
+msgid "Class Starff:"
+msgstr ""
+
+#: partials/content-empty.php:14
+msgid "Use the search form below to find the page you're looking for:"
+msgstr ""
+
+#: partials/content-event.php:39
+msgid "Event Details"
+msgstr ""
+
+#: partials/content-event.php:67
+msgid "Location"
+msgstr ""
+
+#: partials/content-event.php:71
+msgid "Date: "
+msgstr ""
+
+#: partials/content-event.php:75
+msgid "Time: "
+msgstr ""
+
+#: partials/content-single.php:54
+msgid "<span>Pages:</span>"
+msgstr ""
+
+#: partials/footer-standard.php:123 partials/footer-standard.php:168
+#: partials/footer-standard.php:212
+msgid "mailto:"
+msgstr ""
+
+#: partials/footer-standard.php:125 partials/footer-standard.php:170
+#: partials/footer-standard.php:214
+msgid "tel:"
+msgstr ""
+
+#: partials/header-page-title.php:82
+msgid "Search Result"
+msgstr ""
+
+#: partials/header-page-title.php:98
+msgid "404 page"
+msgstr ""
+
+#. Name of the theme
+msgid "Univ Theme"
+msgstr ""
+
+#. Description of the theme
+msgid "University Education WordPress Theme"
+msgstr ""
+
+#. Author of the theme
+msgid "HasTech"
+msgstr ""
